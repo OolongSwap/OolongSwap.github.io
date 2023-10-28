@@ -1,0 +1,1 @@
+(this["webpackJsonp@oolongswap/interface"]=this["webpackJsonp@oolongswap/interface"]||[]).push([[8],{988:function(n,o){},995:function(n,o){},997:function(n,o){}}]);
